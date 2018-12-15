@@ -32,6 +32,7 @@ ul{
   text-decoration:none; 
   color:white; 
   font-size:1.2rem; 
+  font-weight:bold; 
   
 }
 .header-wrapper ul li a:hover{
@@ -47,24 +48,28 @@ height:600px;
 
 /*current skill set */
 .current-skill-set{
-height:600px; 
-  background-color:rgb(50,150,300);
+ height:600px; 
+ background-color:rgb(50,150,300);
 }
 
 /*Portfolio */
 .portfolio{
-height:600px; 
+ height:600px; 
   background-color:gray;
 }
 
 
 
 /*footer */
-.wrapper-footer{
-height:100px; 
+ .wrapper-footer{
+  height:100px; 
   background-color:rgb(100,150,250);
 }
-
+.wrapper-footer p{
+    color:white;
+    text-shadow:1px 1px 1px black , -1px -1px 1px black; 
+    font-size:1.2rem;
+}
 
 
 
