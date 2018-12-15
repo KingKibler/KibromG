@@ -22,18 +22,18 @@ padding:0px;
   margin:0px; 
   padding:0px;
 }
-.header-wrapper .unorderedlist li{
+.header-wrapper .header-unorderedlist li{
   display:inline-block;
   margin:0px 5px 0px 5px; 
   padding:5px; 
 }
-.header-wrapper .unorderedlist li a{
+.header-wrapper .header-unorderedlist li a{
   text-decoration:none; 
   color:white; 
   font-size:1.2rem; 
   
 }
-.header-wrapper .unorderedlist li a:hover{
+.header-wrapper .header-unorderedlist li a:hover{
   color:orange; 
 }
 
