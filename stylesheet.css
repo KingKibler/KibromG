@@ -8,7 +8,7 @@ padding:0px;
     background-color:rgb(100,150,250);
     display:grid; 
     grid-template-columns:1fr 1fr; 
-    opacity:.05;
+    
 }
 .header-wrapper header .header-title{
   color:white; 
@@ -16,7 +16,7 @@ padding:0px;
   font-weight:bold; 
   font-family:permanente marker; 
   font-style:italic; 
-  opacity:1;
+  
 }
 
 ul{
@@ -34,7 +34,7 @@ ul{
   color:white; 
   font-size:1.2rem; 
   font-weight:bold; 
-    opacity:1;
+    
   
 }
 .header-wrapper ul li a:hover{
