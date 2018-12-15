@@ -8,6 +8,7 @@ padding:0px;
     background-color:rgb(100,150,250);
     display:grid; 
     grid-template-columns:1fr 1fr; 
+    opacity:.2;
 }
 .header-wrapper header .header-title{
   color:white; 
